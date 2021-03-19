@@ -32,7 +32,7 @@
 |     21 |   옵셔널 체인과 nil 병합 연산자 |  [이동하기](https://github.com/i-colours-u/Swift_basic/blob/master/readme/21.md)   | 
 |     22 |   타입캐스팅 |  [이동하기](https://github.com/i-colours-u/Swift_basic/blob/master/readme/22.md)   | 
 |     23 |   assert와 guard |  [이동하기](https://github.com/i-colours-u/Swift_basic/blob/master/readme/23.md)   | 
-|     24 |   프로토콜 |  [이동하기](https://github.com/i-colours-u/Swift_basic/blob/master/readme/24.md) | 
+|     24 |   프로토콜 |  [이동하기](https://github.com/i-colours-u/Swift_basic/blob/master/readme/24.md)  | 
 |     25 |   익스텐션 | [이동하기](https://github.com/i-colours-u/Swift_basic/blob/master/readme/25.md)   | 
 
 
